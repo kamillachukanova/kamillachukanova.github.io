@@ -236,7 +236,7 @@ img.contact_img:hover {
 }
 
 .resume {
-  background-image: url(wall.png);
+  background-image: url(/images/wall.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 855px;
